@@ -1,0 +1,11 @@
+46 Up arrow
+47 Right arrow
+44 Left arrow
+45 Down arrow
+53 Start
+52 Select
+39 Center
+51 Top right circle
+50 Top left X
+49 Bottom left triangle
+48 Bottom right square
